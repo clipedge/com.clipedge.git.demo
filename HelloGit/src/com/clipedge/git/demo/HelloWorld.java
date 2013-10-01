@@ -28,11 +28,11 @@ public class HelloWorld {
 
 	/**
 	 * Oct 1, 2013 12:43:15 AM
-	 *
+	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("hello world");
 
 	}
 
